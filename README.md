@@ -8,7 +8,7 @@ This is my very first project using [Three.js](https://threejs.org/) and [Vite](
 - Vanilla JavaScript (ES6 Modules)
 
 ## To start a vs in the terminal (gitbash - windows):
-## 🧪 Setup From Scratch (via Git Bash on Windows)
+## Setup From Scratch (via Git Bash on Windows)
 
 # 1. Create a new project folder and go inside it
 mkdir my-threejs-app (u can call it anything you like;)
